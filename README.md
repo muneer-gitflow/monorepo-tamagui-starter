@@ -103,3 +103,7 @@ You may potentially want to have the native module transpiled for the next app. 
 - Build command: leave default setting
 - Output dir: leave default setting
 # monorepo-tamagui-starter
+
+
+Next Step :
+Include nest js with trpc
